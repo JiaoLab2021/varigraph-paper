@@ -23,7 +23,7 @@
 [Freebayes_url]: https://github.com/freebayes/freebayes
 [Octopus_url]: https://github.com/luntergroup/octopus
 
-## ​​Code for Genotyping​​:
+## 1. ​​Code for Genotyping​​:
 
 ### VG MAP
 
@@ -239,6 +239,6 @@ Running [Octopus][Octopus_url] requires only one simple command.
 octopus -R refgenome.fa -I sample.bam -o sample.vcf.gz --threads 32 -P 4
 ```
 
-## ​​Code for Plotting:
+## 2. ​​Code for Plotting:
 
 ### All plotting code has been uploaded to the draw folder.
