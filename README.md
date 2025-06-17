@@ -238,3 +238,7 @@ Running [Octopus][Octopus_url] requires only one simple command.
 # Octopus
 octopus -R refgenome.fa -I sample.bam -o sample.vcf.gz --threads 32 -P 4
 ```
+
+## ​​Code for Plotting:
+
+### All plotting code has been uploaded to the draw folder.
