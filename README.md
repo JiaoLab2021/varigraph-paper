@@ -242,3 +242,7 @@ octopus -R refgenome.fa -I sample.bam -o sample.vcf.gz --threads 32 -P 4
 ## 2. ​​Code for Plotting:
 
 ### All plotting code has been uploaded to the draw folder.
+
+You can run the Python scripts directly to generate the plots.
+
+Sample data and code are included — no additional setup is needed.
